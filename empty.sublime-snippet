@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+	$0
+]]></content>
+    <keyEquivalent>
+</keyEquivalent>
+    <scope>meta.parens.empty.go</scope>
+    <description>Empty ()</description>
+</snippet>
